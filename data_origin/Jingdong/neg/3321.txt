@@ -1,0 +1,4 @@
+
+散热不足！！
+系统男装！不懂得建议买个装好了系统的！ 把ROOT HUB 卸载掉，再进BIOS，restore SET UP !就OK了，不然USB全部没用！
+

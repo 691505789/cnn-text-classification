@@ -1,0 +1,3 @@
+
+XP只要先把启动项改成CD的,开机后，等出现华硕标志按F2进入BIOS，选择“Storage Configuration”进入，然后把“Configure SATA as”由AHCI模式改成IDE兼容模式 就直接装上系统盘装好了.
+

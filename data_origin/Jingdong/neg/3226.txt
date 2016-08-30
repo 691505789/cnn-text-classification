@@ -1,0 +1,3 @@
+
+安装XP系统比较麻烦。因为是SATA的关系装XP很麻烦。在网上下了个windows xp pro sp3纯净安装版(整合IE7,WMP11与PATA, SATA, SCSI, RAID驱动)不能装。
+

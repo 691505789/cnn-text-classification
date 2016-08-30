@@ -1,0 +1,3 @@
+
+BIOS里没有SLIC表，OEM版的Vista不容易装，但安装OEM版的XP没有任何问题
+

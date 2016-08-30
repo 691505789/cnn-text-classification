@@ -1,0 +1,3 @@
+
+无预装系统，且主板BIOS没有打入SLIC证书，因此不能激活OEM版VISTA，造成VISTA无法使用。换了几个版本VISTA和激活工具都没有拿下VISTA，我会再试，也请成功安装VISTA的朋友指教
+
