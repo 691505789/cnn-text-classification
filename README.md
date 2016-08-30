@@ -38,4 +38,17 @@
 - w2v_path
 - file_dir
 
-
+## 词向量模型
+提前训练的词向量由于文件过大，不易上传，故存放在百度云盘中
+地址：http://pan.baidu.com/s/1dFzBLPv  提取码：ficp
+云盘中包括：
+- retrain_vectors_50      包含酒店评论数据的词向量，维度50
+- retrain_vectors_100      包含酒店评论数据的词向量，维度100
+- retrain_vectors_200      包含酒店评论数据的词向量，维度200
+- vectors_50      搜狗新闻数据集训练的词向量，维度50
+- vectors_100      搜狗新闻数据集训练的词向量，维度100
+- vectors_200      搜狗新闻数据集训练的词向量，维度200
+- vectorsPlus_50      搜狗新闻数据集+wiki数据训练的词向量，维度50
+- vectorsPlus_100      搜狗新闻数据集+wiki数据训练的词向量，维度100
+- vectorsPlus_200      搜狗新闻数据集+wiki数据训练的词向量，维度200
+- wiki_vectors_50      wiki数据训练的词向量，维度50
