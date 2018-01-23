@@ -52,3 +52,5 @@
 - vectorsPlus_100      搜狗新闻数据集+wiki数据训练的词向量，维度100
 - vectorsPlus_200      搜狗新闻数据集+wiki数据训练的词向量，维度200
 - wiki_vectors_50      wiki数据训练的词向量，维度50
+- wiki_vectors_100      wiki数据训练的词向量，维度100
+- wiki_vectors_200      wiki数据训练的词向量，维度200
